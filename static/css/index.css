@@ -1,0 +1,19 @@
+* {
+  font-size: x-large;
+}
+
+form {
+  padding: 40px 40px 20px !important;
+  background: #ebeff2;
+}
+.mt32 {
+  margin-top: 32px;
+}
+label {
+  margin-top: 0.3em;
+}
+
+.row {
+  padding:15px;
+}
+
